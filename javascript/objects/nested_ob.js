@@ -11,7 +11,7 @@ let rohit ={
     matches:43,
     runs:5000,
     }
-};
+}
 
 for(let key in rohit){
   for(let key2 in rohit[key]){
